@@ -1,6 +1,6 @@
 # Book API project
 
-This is a REST API for storing and retrieving books and there authors. This project was made using the following [tutorial](https://www.youtube.com/watch?v=Nv2DERaMx-4&pp=0gcJCfkLAYcqIYzv) and use the 4.1.0 version of the springframework.
+This is a REST API for storing and retrieving books and their authors. This project was made using the following [tutorial](https://www.youtube.com/watch?v=Nv2DERaMx-4&pp=0gcJCfkLAYcqIYzv) and use the 4.1.0 version of the springframework.
 
 Every book contains a isbn which is its personal identifier, it also contains a title and a author. The author has a id, a name and an age.
 
