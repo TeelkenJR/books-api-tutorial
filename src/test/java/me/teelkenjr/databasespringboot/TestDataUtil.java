@@ -42,4 +42,12 @@ public class TestDataUtil {
                 .author(author)
                 .build();
     }
+
+    public static AuthorDto createTestAuthorDtoA() {
+        return AuthorDto.builder()
+                .name("Dorthy Mckenzie")
+                .age(80)
+                .build();
+    }
+
 }

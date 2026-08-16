@@ -11,9 +11,6 @@ public class BooksApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BooksApiApplication.class, args);
-
-
-        System.out.println("AUTHOR CLASS = " + AuthorEntity.class);
     }
 
 }
